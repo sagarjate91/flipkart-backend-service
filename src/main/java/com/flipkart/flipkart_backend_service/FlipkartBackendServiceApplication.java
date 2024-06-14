@@ -11,7 +11,5 @@ public class FlipkartBackendServiceApplication {
 		SpringApplication.run(FlipkartBackendServiceApplication.class, args);
 
 	}
-	
-	
 
 }
